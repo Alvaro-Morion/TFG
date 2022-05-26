@@ -12,7 +12,7 @@ Cataluña.R: Análisis de los niveles de contaminación en las ciudades catalana
 
 Bilbao.R: Análisis de los niveles de contaminación en las ciudades del País Vasco.
 
-Meteo: Datos y resultados obtenidos relacionados con las condiciones meteorológicas.
+Meteo.R: Datos y resultados obtenidos relacionados con las condiciones meteorológicas.
 
 Tráfico.R: Determinación de la reducción de IMD de Barcelona en 2020 con respecto a 2019.
 
